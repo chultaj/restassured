@@ -14,4 +14,5 @@ repositories {
 dependencies {
     testCompile 'org.junit.jupiter:junit-jupiter-api:5.4.0'
     testCompile 'io.rest-assured:rest-assured:3.3.0'
+    testCompile 'com.fasterxml.jackson.core:jackson-databind:2.9.5'
 }
